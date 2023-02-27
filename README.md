@@ -1,10 +1,10 @@
 안녕하세요,
 
-Private Cloud & Legacy Network 엔지니어 관련 업무를 하며 인프라의 경험을 쌓아왔습니다.
+Private Cloud & Legacy Network 엔지니어 관련 업무를 하며 인프라의 경험을 쌓아왔습니다.  
 최근엔 Fastcampus 에서 웹 백엔드 과정을 진행하며 공부를 진행하고 있습니다.
 
-과정을 시작하며 [블로그](https://hoonii2.tistory.com/) 를 작성하고 있지만 작성 글이 많이 없습니다.
-특별한 경험 혹은 개념을 접하게 되면 지속적으로 작성할 계획입니다.
+백엔드 과정을 시작하며 [블로그](https://hoonii2.tistory.com/) 를 작성하고 있지만 작성 글이 많이 없습니다.  
+특별한 경험 혹은 개념을 접하게 되면 지속적으로 작성할 계획입니다.  
 
 현재는 백엔드 성능 관련 기술과 Container 관련 기술에 관심을 갖고 있습니다.
 
@@ -21,7 +21,7 @@ Private Cloud & Legacy Network 엔지니어 관련 업무를 하며 인프라의
 
 <br/>
 
-### Private Cloud (SDC 8 SDN)
+### Private Cloud (SDC & SDN)
 - VMWare 의 vSphere & vCenter 를 바탕으로 SDC 를 구축하고 NSX 를 통한 NFV 를 구축할 수 있습니다.
 - BIGSWITCH 의 BCF 를 바탕으로 Openflow 를 이해하고 이를 기반으로 하는 SDN 환경을 구축할 수 있으며, Tenant / Segment 를 바탕으로 트래픽 흐름을 설계하고 제어할 수 있습니다.
 - Multi-Datacenter 환경에서 Extended L2 Network 를 위한 VxLAN Tunneling 을 구축할 수 있습니다.
