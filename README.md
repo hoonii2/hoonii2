@@ -15,9 +15,10 @@ Private Cloud & Legacy Network 엔지니어 관련 업무를 하며 인프라의
 
 <br/>
 
-### Docker
+### Kubernetes & Docker
 - 여러 NameSpace 를 통한 Docker Container 의 동작 원리, Overlay FS 를 통해 Docker 이미지의 계층 구조를 이해하고, Docker build 를 통해 이미지를 구성할 수 있습니다.
-- 이를 바탕으로 컨테이너를 관리하는 k8s 의 이해도를 높여오고 있습니다.
+- Kuberenetes Architecture 를 이해하고 Control Plane Compoment 의 동작, Pod, Deployment, Service, Ingress, Volume 등의 다양한 리소스의 목적 및 동작을 이해하고 있습니다.
+- 이를 바탕으로 CKA (Certified Kubernetes Administrator) 자격증을 취득하였습니다.
 
 <br/>
 
