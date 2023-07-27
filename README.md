@@ -48,3 +48,7 @@ Private Cloud & Legacy Network 엔지니어 관련 업무를 하며 인프라의
 - ARP Spoofing 를 이해하고 이를 기반으로 동작하는 NAC 를 활용하여 L2 Network 단위로 제어할 수 있습니다.
 - White & Blacklist 방화벽을 구성할 수 있으며, Stateful & Stateless 방화벽을 이해하고 있습니다.
 
+<br/>
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh55913)](https://solved.ac/lkh55913/)
